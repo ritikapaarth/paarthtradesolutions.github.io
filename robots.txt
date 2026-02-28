@@ -1,0 +1,7 @@
+# Robots.txt for Paarth Trade Solutions
+# https://paarthtradesolutions.com
+
+User-agent: *
+Allow: /
+
+Sitemap: https://paarthtradesolutions.com/sitemap.xml
